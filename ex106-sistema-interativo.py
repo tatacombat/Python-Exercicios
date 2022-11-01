@@ -17,6 +17,7 @@ def ajuda(com):
     print(c[5], end='')
     sleep(1)
 
+
 def título(msg, cor=0):
     tam = len(msg) + 4
     print(c[cor], end='')

@@ -7,3 +7,4 @@ if prestação > (sal * 0.3):
     print('\33[1;31mEmpréstimo NEGADO!')
 else:
     print('\33[1:36mEmpréstimo CONCEDIDO!')
+    

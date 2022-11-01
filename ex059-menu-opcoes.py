@@ -30,4 +30,3 @@ while opção != 5:
         print('Opção inválida. Tente novamente.')
     print('-=-'*15)
 print('fim do programa.')
-

@@ -11,6 +11,7 @@ def leiaint(msg):
         else:
             return n
 
+
 def leiafloat(msg):
     while True:
         try:
@@ -23,6 +24,7 @@ def leiafloat(msg):
             return 0
         else:
             return n
+
 
 n1 = leiaint('Digite um número: ')
 n2 = leiafloat('Digite um Real: ')
