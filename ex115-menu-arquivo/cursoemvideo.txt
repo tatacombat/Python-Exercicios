@@ -1,0 +1,3 @@
+Maria:85
+Jose:12
+Thais:34
