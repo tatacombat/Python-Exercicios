@@ -27,3 +27,4 @@ def resumo(preço=0, taxaa=10, taxar=5):
     print(f'Com {taxaa}% de aumento: {aumentar(preço, taxaa, True)}')
     print(f'Com {taxar}% de redução: {diminuir(preço, taxar, True)}')
     print('-=' * 30)
+    
